@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/huntoor/fylo-data-storage-component-master)
+- Solution URL: [solution URL](https://github.com/huntoor/fylo-data-storage-component-master)
 - Live Site URL: [Github Page](https://huntoor.github.io/fylo-data-storage-component-master/)
 
 ## My process
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://github.com/huntoor)
+- Github - [Hunter](https://github.com/huntoor)
 - Frontend Mentor - [@huntoor](https://www.frontendmentor.io/profile/huntoor)
